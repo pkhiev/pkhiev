@@ -7,7 +7,7 @@
 <br>
 <small>Connect with me on Linkedin:</small>
 
-[<img src="assets/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="75" align="center" />](https://www.linkedin.com/in/prestonkhiev/)
+[<img src="assets/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" align="center" />](https://www.linkedin.com/in/prestonkhiev/)
 
 
 
