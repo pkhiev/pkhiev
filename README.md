@@ -1,11 +1,17 @@
-### Hi there 👋
 
-<div align="center" width="50">
-    <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?" width="300"/>
-    ![](https://github.com/pkhiev/pkhiev/assets/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-
-</div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Preston!</h1>
+<h2 align="center">I'm an engineer with a passion for data science and machine learning</h2> 
+<div align="center" width="50">
+    <img src="assets/200w.gif"/>
+</div>
+<h6 align="left">Connect with me on Linkedin:</h6> 
+
+[<img src="assets/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="75" align="center" />](https://www.linkedin.com/in/prestonkhiev/)
+
+
+<br>
+
+
 
 <!--
 **pkhiev/pkhiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
