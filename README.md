@@ -3,7 +3,7 @@
     <img src="assets/200w.gif"/>
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Preston!</h1>
-<h2 align="center">I'm an engineer with a passion for data science and machine learning</h2> 
+<h2 align="center">I'm an engineer with a passion for Machine Learning and Data Science</h2> 
 <br>
 <small>Connect with me on Linkedin:</small>
 
